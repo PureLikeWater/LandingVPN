@@ -1,0 +1,72 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 0px 150px 130px 150px;
+}
+
+.textContainer {
+    margin-top: 54px;
+}
+
+.textContainer .f {
+    
+    margin-bottom: 20px;
+
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+    color: #0B132A;
+}
+
+.textContainer .s {
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: #4F5665;
+    margin-bottom: 20px;
+}
+
+.ulContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.ulContainer div {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    align-items: center;
+    margin-bottom: 15px;
+
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 30px;
+    color: #4F5665;
+}
+.ulContainer div:last-child {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 0px;
+}
+
+
+.ulContainer div span:first-child{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.ulContainer div span:first-child img {
+    width: 24px;
+    height: 24px;
+}

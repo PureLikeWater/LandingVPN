@@ -1,0 +1,19 @@
+.feedbackContainer {
+    display: flex;
+    flex-direction: row;
+}
+.slideContainer {
+    display: flex;
+    flex-direction: row;
+    /* background: 2px solid #cc7d7d;
+    border-radius: 10px; */
+}
+.feedback {
+    display: flex;
+    flex-direction: column;
+
+}
+.userInfo {
+    display: flex;
+    flex-direction: row;
+}

@@ -1,0 +1,72 @@
+
+.subscContainer {
+    position: relative;
+    margin-left: 150px;
+    margin-right: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: teal; */
+    height: 230px;
+    z-index: 1;
+    top: 115px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+.textContainer {
+    margin: 58px 0px 58px 70px;
+}
+.textContainer div:first-child {
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 45px;
+    color: #0B132A;
+    max-width: 370px;
+    margin-bottom: 20px;
+}
+.textContainer div:last-child {
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: #4F5665;
+}
+.buttonContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 86px 70px 86px 0px;
+
+}
+.Button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    width: 250px;
+    height: 60px;
+
+    background-color: #F53838;
+    border-radius: 10px;
+    color: white;
+}
+.ShadowButton {
+
+
+
+    position: absolute;
+    z-index: -1;
+    width: 210px;
+    height: 60px;
+    background: rgba(245, 56, 56, 0.35);
+    bottom: 55px;
+    filter: blur(30px);
+    border-radius: 10px;
+    margin-left: 19px;
+
+}

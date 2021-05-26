@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 180px;
+    background-color: rgb(252, 252, 252);
+}
+
+.prob {
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+
+
+
+
+
+
+

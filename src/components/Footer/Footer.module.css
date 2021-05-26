@@ -1,0 +1,87 @@
+.footerContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* align-items: center; */
+    background-color: rgb(252, 252, 252);
+}
+.logoNets {
+    padding-top: 180px;
+    padding-left: 150px;
+    padding-bottom: 140px;
+}
+.logo {
+    margin-bottom: 20px;
+}
+.textFooterLogo {
+    max-width: 300px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: #4F5665;
+    margin-bottom: 30px;
+}
+.textFooterLogo::before {
+    content: "LaslesVPN ";
+    font-weight: 700;
+}
+.Nets {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+
+}
+.Nets div {
+    display: flex;
+    justify-content: center;
+    margin-right: 20px;
+    background-color: #F53838;
+    border-radius: 50%;
+}
+.copyright {
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: #AFB5C0;
+}
+.copyright::after {
+    content: "VPN";
+    font-weight: 700;
+}
+.product, .Engage, .EarnMoney {
+    display: flex;
+    flex-direction: column;
+
+    padding-top: 180px;
+    padding-left: 230px;
+    padding-bottom: 140px;
+}
+.product div:nth-child(n), .Engage div:nth-child(n), .EarnMoney div:nth-child(n) {
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: #4F5665;
+
+    margin-bottom: 10px;
+}
+.product div:first-child, .Engage div:first-child, .EarnMoney div:first-child{
+    margin-bottom: 20px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 30px;
+    color: #0B132A;
+}
+.Engage, .EarnMoney {
+    padding-left: 126px;
+}
+.EarnMoney {
+    padding-right: 150px;
+}

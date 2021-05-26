@@ -1,0 +1,66 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.logo {
+
+    padding: 50px 0px 90px 150px;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 2;
+    justify-content: center;
+
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #4F5665;
+
+}
+
+.nav div {
+    margin: 59px 20px 100px 20px;
+}
+
+.sign {
+    display: flex;
+    flex-direction: row;
+    margin: 45px 150px 100px 0px ;
+}
+
+.sign div:first-child {
+    margin: 14px 15px 0px 0px;
+
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #0B132A;
+
+}
+
+.sign div:last-child {
+    display: flex;
+    align-items: center;
+    margin: 0px 0px 0px 15px;
+    justify-content: center;
+    border: 1px solid #F53855;
+    border-radius: 50px;
+    width: 150px;
+    height: 45px;
+
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #F53855;
+}
