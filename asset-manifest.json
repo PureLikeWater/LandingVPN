@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/LandingVPN/static/css/main.05db26f6.chunk.css",
+    "main.js": "/LandingVPN/static/js/main.a9bb16b2.chunk.js",
+    "main.js.map": "/LandingVPN/static/js/main.a9bb16b2.chunk.js.map",
+    "runtime-main.js": "/LandingVPN/static/js/runtime-main.a5736589.js",
+    "runtime-main.js.map": "/LandingVPN/static/js/runtime-main.a5736589.js.map",
+    "static/js/2.518cac61.chunk.js": "/LandingVPN/static/js/2.518cac61.chunk.js",
+    "static/js/2.518cac61.chunk.js.map": "/LandingVPN/static/js/2.518cac61.chunk.js.map",
+    "static/js/3.6aeb8711.chunk.js": "/LandingVPN/static/js/3.6aeb8711.chunk.js",
+    "static/js/3.6aeb8711.chunk.js.map": "/LandingVPN/static/js/3.6aeb8711.chunk.js.map",
+    "index.html": "/LandingVPN/index.html",
+    "static/css/main.05db26f6.chunk.css.map": "/LandingVPN/static/css/main.05db26f6.chunk.css.map",
+    "static/js/2.518cac61.chunk.js.LICENSE.txt": "/LandingVPN/static/js/2.518cac61.chunk.js.LICENSE.txt",
+    "static/media/Free.730099fa.png": "/LandingVPN/static/media/Free.730099fa.png",
+    "static/media/Huge_Global.25b6570f.png": "/LandingVPN/static/media/Huge_Global.25b6570f.png",
+    "static/media/Illustr.bf3a41be.png": "/LandingVPN/static/media/Illustr.bf3a41be.png",
+    "static/media/Illustration_1.4e49630e.png": "/LandingVPN/static/media/Illustration_1.4e49630e.png",
+    "static/media/Premium.95e6021e.png": "/LandingVPN/static/media/Premium.95e6021e.png",
+    "static/media/Standard.f8904990.png": "/LandingVPN/static/media/Standard.f8904990.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5736589.js",
+    "static/js/2.518cac61.chunk.js",
+    "static/css/main.05db26f6.chunk.css",
+    "static/js/main.a9bb16b2.chunk.js"
+  ]
+}
